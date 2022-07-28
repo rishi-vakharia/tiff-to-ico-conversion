@@ -4,7 +4,7 @@
 $ ./convert
 ```
 
-See that sample.ico is generated from sample.tiff!
+See that sample.tiff is converted to sample.ico!
 
 
 
