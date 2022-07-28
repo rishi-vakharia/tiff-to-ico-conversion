@@ -15,5 +15,4 @@ $ make
 $ make clean
 ```
 
-
 Made as a Group Project for C Programming Course (SEM 1)
