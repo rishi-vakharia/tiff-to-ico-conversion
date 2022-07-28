@@ -14,3 +14,6 @@ See that sample.tiff is converted to sample.ico!
 $ make
 $ make clean
 ```
+
+
+Made as a Group Project for C Programming Course (SEM 1)
